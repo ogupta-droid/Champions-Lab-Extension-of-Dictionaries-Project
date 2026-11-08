@@ -1,0 +1,512 @@
+CURRENT-SEASON AND EQUIPMENT SOURCES
+Checked 30 October 2026
+
+2026/27 participants: https://www.uefa.com/uefachampionsleague/clubs/
+Standings: snapshot after21October2026, not live; includes equal positions20 and29. Table source: https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League#Table (references UEFA).
+Fixtures:144 league-phase fixtures from https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_league_phase . Real results are retained separately as actualScore and must never be represented as simulation outputs.
+
+Squad statistics: UEFA squad pages include qualifying matches for teams who played qualifiers.1288 registered players including listB; season appearance/goals or goalkeeper goals-conceded values. Source dashes remain null; they are not invented zeros. Squads are not announced startingXIs. Photos remotely referenced from the actual UEFA page; some portraits may not be available on the image server.
+
+Capacity: current published configurations, not final-event capacities. Historical or temporary UCL venues are labeled. Stadium photos use original linked file references; photo source links carry author/license details. These images are remotely hosted, not embedded offline.
+
+Kit photos:102 verified image references across36clubs. Home/Away/Third slots remain explicit where no verified photo is available. PSG third official release was not verified; leaks are not treated as released. Footpack supplied most catalog photos; PSV away, Villa away and Como third use official club pages. Some source catalog entries were incorrect or duplicate images and have been omitted.
+
+Ball coverage:2001–2021finals,2026final and2026/27leagueball. Istanbul-branded2020/2021balls are labeled with relocated final venues.2022–2025andearlierfinals not yet complete. No2027finalball invented.
+
+AEK Athens
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50129--aek-athens/squad/
+Venue: https://en.wikipedia.org/wiki/Agia_Sophia_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:AEK_fans_during_AEK-Marseille_game.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Arsenal
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/
+Venue: https://en.wikipedia.org/wiki/Emirates_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Aston Villa
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52683--aston-villa/squad/
+Venue: https://en.wikipedia.org/wiki/Villa_Park
+Photo: https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://shop.avfc.co.uk/en/aston-villa-adidas-away-shirt-2026-27/p-240092624309813351+z-91-1277852771 | Official club image
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Atlético Madrid
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50124--atleti/squad/
+Venue: https://en.wikipedia.org/wiki/Metropolitano_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Borussia Dortmund
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52758--b-dortmund/squad/
+Venue: https://en.wikipedia.org/wiki/Westfalenstadion
+Photo: https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_4.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Barcelona
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/squad/
+Venue: https://en.wikipedia.org/wiki/Camp_Nou
+Photo: https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Bayern Munich
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50037--bayern-munchen/squad/
+Venue: https://en.wikipedia.org/wiki/Allianz_Arena
+Photo: https://commons.wikimedia.org/wiki/File:Allianz_Arena_2008-02-09.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Bodø/Glimt
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/59333--bodo-glimt/squad/
+Venue: https://en.wikipedia.org/wiki/Aspmyra_Stadion
+Photo: https://commons.wikimedia.org/wiki/File:Aspmyra_stadion.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | No verified image in the checked catalog; no substitute shirt shown
+
+Club Brugge
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50043--club-brugge/squad/
+Venue: https://en.wikipedia.org/wiki/Jan_Breydel_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:Janbreydel.png
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Como
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/79946--como/squad/
+Venue: https://en.wikipedia.org/wiki/Stadio_Giuseppe_Sinigaglia
+Photo: https://commons.wikimedia.org/wiki/File:Stadio_Sinigaglia_Como_16-07-2025.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://shop.comofootball.com/en/products/como-1907-third-jersey-2026-27 | Official club image
+
+Fenerbahçe
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52692--fenerbahce/squad/
+Venue: https://en.wikipedia.org/wiki/Şükrü_Saracoğlu_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:Sukrusaracoglu.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Feyenoord
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52749--feyenoord/squad/
+Venue: https://en.wikipedia.org/wiki/De_Kuip
+Photo: https://commons.wikimedia.org/wiki/File:Feyenoord_Rotterdam's_De_Kuip_stadium_in_2022_before_a_match_against_FC_Emmen.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Galatasaray
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50067--galatasaray/squad/
+Venue: https://en.wikipedia.org/wiki/Rams_Park
+Photo: https://commons.wikimedia.org/wiki/File:Rams_Park_iç_görünüm_2025.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Inter Milan
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50138--inter/squad/
+Venue: https://en.wikipedia.org/wiki/San_Siro
+Photo: https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+LASK
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/63405--lask/squad/
+Venue: https://en.wikipedia.org/wiki/Raiffeisen_Arena_(Linz)
+Photo: https://commons.wikimedia.org/wiki/File:Raiffeisen-Arena_Linz_01.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+RB Leipzig
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/2603790--leipzig/squad/
+Venue: https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)
+Photo: https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Lens
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52277--lens/squad/
+Venue: https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis
+Photo: https://commons.wikimedia.org/wiki/File:Stade_Bollaert_Delelis.JPG
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Lille
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/75797--lille/squad/
+Venue: https://en.wikipedia.org/wiki/Stade_Pierre-Mauroy
+Photo: https://commons.wikimedia.org/wiki/File:Lille_vs_PSG_2019_-_Stade_Pierre_Mauroy.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Liverpool
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/
+Venue: https://en.wikipedia.org/wiki/Anfield
+Photo: https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Manchester City
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/
+Venue: https://en.wikipedia.org/wiki/Etihad_Stadium
+Photo: https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Manchester United
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52682--man-utd/squad/
+Venue: https://en.wikipedia.org/wiki/Old_Trafford
+Photo: https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Napoli
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/
+Venue: https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona
+Photo: https://commons.wikimedia.org/wiki/File:Stadio_San_Paolo_Serie_A.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Paris Saint-Germain
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52747--paris/squad/
+Venue: https://en.wikipedia.org/wiki/Parc_des_Princes
+Photo: https://commons.wikimedia.org/wiki/File:Paris_Le_Parc_des_Princes.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Official launch not verified as of 30 October 2026; leaked designs are not presented as released kits.
+
+Porto
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50064--porto/squad/
+Venue: https://en.wikipedia.org/wiki/Estádio_do_Dragão
+Photo: https://commons.wikimedia.org/wiki/File:Porto_Estádio_do_Dragão_2.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+PSV Eindhoven
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50062--psv/squad/
+Venue: https://en.wikipedia.org/wiki/Philips_Stadion
+Photo: https://commons.wikimedia.org/wiki/File:Psv_stadion_2019.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.psv.nl/en/media/article/kit-release-psv-presents-away-shirt-for-season-2026-2027 | Official club image
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Real Betis
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52265--real-betis/squad/
+Venue: https://en.wikipedia.org/wiki/Estadio_de_La_Cartuja
+Photo: https://commons.wikimedia.org/wiki/File:Betis_Girona_23_nov_2025_003.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Real Madrid
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50051--real-madrid/squad/
+Venue: https://en.wikipedia.org/wiki/Bernabéu_(stadium)
+Photo: https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernabéu_—_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_(Intercontinental_Sub-20_2026)_—_Récord_de_asistencia_en_un_partido_de_juveniles.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Roma
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50137--roma/squad/
+Venue: https://en.wikipedia.org/wiki/Stadio_Olimpico
+Photo: https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Slovan Bratislava
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52797--s-bratislava/squad/
+Venue: https://en.wikipedia.org/wiki/Tehelné_pole
+Photo: https://commons.wikimedia.org/wiki/File:Slovakia_bratislava_Národný_futbalový_štadión.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Sabah
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/2609356--sabah/squad/
+Venue: https://en.wikipedia.org/wiki/Baku_Olympic_Stadium
+Photo: https://en.wikipedia.org/wiki/File:Baku_National_Stadium_2015-06.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | No verified image in the checked catalog; no substitute shirt shown
+
+Shakhtar Donetsk
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52707--shakhtar/squad/
+Venue: https://en.wikipedia.org/wiki/Stamford_Bridge_(stadium)
+Photo: https://commons.wikimedia.org/wiki/File:London_Stamford_Bridge.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | No verified image in the checked catalog; no substitute shirt shown
+
+Slavia Prague
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52498--slavia-praha/squad/
+Venue: https://en.wikipedia.org/wiki/Fortuna_Arena
+Photo: https://commons.wikimedia.org/wiki/File:Praha,_Slavia,_fotbalový_stadion_(2).jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+Sporting CP
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50149--sporting-cp/squad/
+Venue: https://en.wikipedia.org/wiki/Estádio_José_Alvalade
+Photo: https://commons.wikimedia.org/wiki/File:Estádio_José_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+VfB Stuttgart
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/50107--stuttgart/squad/
+Venue: https://en.wikipedia.org/wiki/MHPArena
+Photo: https://commons.wikimedia.org/wiki/File:Stuttgart_stadium.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | No verified image in the checked catalog; no substitute shirt shown
+
+Viking
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/52319--viking/squad/
+Venue: https://en.wikipedia.org/wiki/Viking_Stadion
+Photo: https://commons.wikimedia.org/wiki/File:Btd_viking_stadion_lr.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | No verified image in the checked catalog; no substitute shirt shown
+
+Villarreal
+Squad/stats/photos: https://www.uefa.com/uefachampionsleague/clubs/70691--villarreal/squad/
+Venue: https://en.wikipedia.org/wiki/Estadio_de_la_Cerámica
+Photo: https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg
+Home: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Away: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+Third: https://www.footpack.fr/240681-ligue-des-champions-2026-2027-tous-les-maillots-club-par-club | Photo catalogued by Footpack
+
+adidas UCL 2026/27 league-phase ball | 2026/27
+https://www.uefa.com/uefachampionsleague/news/02a8-217045418da6-07a4f6945e68-1000--adidas-unveils-new-uefa-champions-league-and-uefa-women-s-ch/
+adidas Final Budapest 2026 | 2025/26
+https://www.uefa.com/uefachampionsleague/news/02a2-1fe20f7f09cf-9bcd591d1c6e-1000--adidas-unveils-official-match-ball-for-2026-champions-leag/
+adidas final ball 2001 | 2000/01
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2002 | 2001/02
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2003 | 2002/03
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2004 | 2003/04
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2005 | 2004/05
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2006 | 2005/06
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2007 | 2006/07
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2008 | 2007/08
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2009 | 2008/09
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2010 | 2009/10
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2011 | 2010/11
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2012 | 2011/12
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2013 | 2012/13
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2014 | 2013/14
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2015 | 2014/15
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2016 | 2015/16
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2017 | 2016/17
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2018 | 2017/18
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2019 | 2018/19
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2020 | 2019/20
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+adidas final ball 2021 | 2020/21
+https://www.footyheadlines.com/2021/02/all-adidas-champions-league-final-balls-since-2001.html
+
+ARCHIVE EXTENSION, SOURCES CHECKED30OCTOBER2026
+
+71winner-season slots (1956–2026). Historical winner-shirt image source: https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+Footpack’s2022image filename identifies a different season and2025image is a commemorative post-win edition; neither is used as a final-worn shirt. Modern kit catalogs are used when verified. The2026heading was blank, so its winner derives from the separately sourced finals record; wardrobe is sourced from the2025/26catalog.
+2025/26 Paris Saint-Germain: Home, Away, Third
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2025-2026/maillot
+2024/25 Paris Saint-Germain: Home, Away, Third
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2024-2025/maillot
+2023/24 Real Madrid: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2023-2024/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2022/23 Manchester City: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2021/22 Real Madrid: 
+
+2020/21 Chelsea: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2020-2021/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2019/20 Bayern Munich: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2019-2020/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2018/19 Liverpool: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2018-2019/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2017/18 Real Madrid: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2017-2018/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2016/17 Real Madrid: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2016-2017/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2015/16 Real Madrid: Home, Away, Third, Final shirt
+https://www.footmercato.net/europe/ligue-des-champions-uefa/2015-2016/maillot
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2014/15 Barcelona: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2013/14 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2012/13 Bayern Munich: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2011/12 Chelsea: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2010/11 Barcelona: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2009/10 Inter Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2008/09 Barcelona: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2007/08 Manchester United: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2006/07 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2005/06 Barcelona: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2004/05 Liverpool: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2003/04 Porto: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2002/03 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2001/02 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+2000/01 Bayern Munich: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1999/00 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1998/99 Manchester United: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1997/98 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1996/97 Borussia Dortmund: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1995/96 Juventus: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1994/95 Ajax: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1993/94 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1992/93 Marseille: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1991/92 Barcelona: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1990/91 Red Star Belgrade: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1989/90 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1988/89 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1987/88 PSV Eindhoven: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1986/87 Porto: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1985/86 Steaua București: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1984/85 Juventus: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1983/84 Liverpool: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1982/83 Hamburg: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1981/82 Aston Villa: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1980/81 Liverpool: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1979/80 Nottingham Forest: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1978/79 Nottingham Forest: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1977/78 Liverpool: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1976/77 Liverpool: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1975/76 Bayern Munich: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1974/75 Bayern Munich: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1973/74 Bayern Munich: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1972/73 Ajax: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1971/72 Ajax: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1970/71 Ajax: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1969/70 Feyenoord: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1968/69 AC Milan: 
+
+1967/68 Manchester United: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1966/67 Celtic: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1965/66 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1964/65 Inter Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1963/64 Inter Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1962/63 AC Milan: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1961/62 Benfica: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1960/61 Benfica: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1959/60 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1958/59 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1957/58 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1956/57 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+1955/56 Real Madrid: Final shirt
+https://www.footpack.fr/113828-les-maillots-des-vainqueurs-de-la-ligue-des-champions-depuis-1956
+
+Final-ball designs now cover2001–2026. Added official sources:
+https://www.uefa.com/uefachampionsleague/news/0275-153c9240e8a6-4e2b20362eb5-1000--final-ball-and-branding-unveiled/
+https://www.uefa.com/uefachampionsleague/news/0282-18346af97635-008988fada03-1000--official-champions-league-final-match-ball-all-eyes-on-202/
+https://www.uefa.com/news-media/news/028a-1a2995dfc32d-4e1773eb0ee7-1000--adidas-unveils-uefa-champions-league-final-match-ball/
+https://www.uefa.com/uefachampionsleague/news/0296-1d05cce76383-5deb5114c6ba-1000--adidas-and-uefa-unveil-new-official-ball-for-uefa-champions-league/
+All images remain remote editorial references; follow the source for rights and attribution.
+
+Final audit:1988PSV gallery image omitted because its filename identifies a2018/19historical-reference shirt; exactfinal-worn provenance not verified. Final tally93winner-kit images:66historical references+27modern wardrobe photos.

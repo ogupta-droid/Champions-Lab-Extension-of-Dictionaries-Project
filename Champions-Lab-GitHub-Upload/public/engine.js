@@ -1,0 +1,13 @@
+const Engine = (()=>{
+const weights={wins:10,draws:3,losses:-2,goals:4,sot:1,conversion_rate:.5,pass_accuracy:.2,clean_sheets:5,saves:1,defensive_tackles:.5};
+const labels={wins:'Wins',draws:'Draws',losses:'Losses',goals:'Goals',sot:'Shots on target',conversion_rate:'Conversion %',pass_accuracy:'Pass accuracy %',clean_sheets:'Clean sheets',saves:'Saves',defensive_tackles:'Defensive tackles'};
+const score=(s,w=weights)=>Object.entries(s).reduce((n,[k,v])=>n+(Object.hasOwn(w,k)&&Number.isFinite(v)?v*w[k]:0),0);
+const rank=(d,w=weights)=>Object.entries(d).map(([name,stats])=>({name,stats,score:score(stats,w)})).sort((a,b)=>b.score-a.score);
+function countries(d,w=weights){let c=new Map;for(const [n,s]of Object.entries(d)){let x=c.get(s.country)||{name:s.country,total:0,count:0};x.total+=score(s,w);x.count++;c.set(s.country,x)}return [...c.values()].map(x=>({...x,score:x.total/x.count+x.count*5})).sort((a,b)=>b.score-a.score)}
+function validate(name,s,data={},old=''){if(!name.trim()||name.length>80)throw Error('Enter a club name (1–80 characters).');if(Object.keys(data).some(n=>n.toLowerCase()===name.toLowerCase()&&n!==old))throw Error('A club with that name already exists.');if(!s.country?.trim()||s.country.length>80)throw Error('Enter a country (1–80 characters).');for(const[k,v]of Object.entries(s)){if(k==='country')continue;if(!Object.hasOwn(weights,k)||!Number.isFinite(v)||v<0||v>100000)throw Error('Invalid '+(labels[k]||k));if(k.endsWith('rate')||k==='pass_accuracy'){if(v>100)throw Error(labels[k]+' must be 0–100.')}else if(!Number.isInteger(v))throw Error(labels[k]+' must be a whole number.')}return true}
+function weakness(s,d){return Object.keys(weights).filter(k=>k!=='losses'&&s[k]!=null).map(k=>{let v=Object.values(d).map(x=>x[k]).filter(Number.isFinite);let below=v.filter(n=>n<s[k]).length,equal=v.filter(n=>n===s[k]).length;return {key:k,percentile:100*(below+.5*equal)/v.length}}).sort((a,b)=>a.percentile-b.percentile)[0]}
+function rng(seed){let a=seed>>>0;return()=>{a+=0x6D2B79F5;let t=a;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296}}
+function simulate(a,b,w,seed,count=1000){const random=rng(seed),delta=Math.max(-3,Math.min(3,(score(a,w)-score(b,w))/60));const la=1.45*Math.exp(delta/2),lb=1.45*Math.exp(-delta/2);const poisson=l=>{let p=1,k=0;do{k++;p*=random()}while(p>Math.exp(-l));return k-1};let wins=0,draws=0,losses=0,example;for(let i=0;i<count;i++){let x=poisson(la),y=poisson(lb);if(!i)example=[x,y];if(x>y)wins++;else if(x===y)draws++;else losses++}return {wins,draws,losses,count,example,la,lb}}
+return {weights,labels,score,rank,countries,validate,weakness,simulate,rng};
+})();
+if(typeof module!=='undefined')module.exports=Engine;

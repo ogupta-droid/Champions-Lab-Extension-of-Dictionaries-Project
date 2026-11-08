@@ -1,0 +1,67 @@
+PLAYER PHOTOGRAPHY — CHAMPIONS LAB
+
+1. Erling Haaland 2023
+Photographer: Jacek Stanislawek
+Source: https://commons.wikimedia.org/wiki/File:Erling_Haaland_2023.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/1/10/Erling_Haaland_2023.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Archive context: Manchester City v RB Leipzig, February 2023.
+
+2. Kylian Mbappe France v Sweden 6.30.26-222
+Photographer: Bryan Berlin
+Source: https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-222.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/a/a3/Kylian_Mbappe_France_v_Sweden_6.30.26-222.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Archive context supplied by source: France v Sweden, June 2026.
+
+3. Mohamed Salah 2022
+Author: Al AHLY TV (video still)
+Source: https://commons.wikimedia.org/wiki/File:Mohamed_Salah_2022.png
+Original video: https://www.youtube.com/watch?v=_r6FUKRIpOo
+Original image: https://upload.wikimedia.org/wikipedia/commons/d/da/Mohamed_Salah_2022.png
+License: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+Archive context: press conference, January 2022.
+
+Original downloaded image bytes are unchanged. Card display uses CSS framing,
+gradient overlays, color styling and animated zoom. Any photo adaptations are
+provided under the same license as their respective source photograph.
+Full-photo view uses the original aspect ratio. These editorial photographs do
+not imply player or photographer endorsement, or represent a current squad.
+All three source pages and licenses were checked on 2026-10-30.
+
+LEGENDS LAB ADDITIONS
+
+4. Cristiano Ronaldo Real Madrid
+Photographer: Антон Зайцев (Anton Zaitsev), via soccer.ru / Wikimedia Commons
+Source: https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Real_Madrid.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/b/bc/Cristiano_Ronaldo_Real_Madrid.jpg
+License used: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Photo context: Real Madrid at the 2018 Champions League final.
+
+5. Leo Messi Argentina v Egypt 7 July 2026-1
+Required attribution: Bryan Berlin / WikiPortraits
+Source: https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg
+Bundled rendition: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+The bundled image is Wikimedia's resized 960px rendition, not the full original.
+Photo context from source: Argentina v Egypt, July 2026.
+
+6. Karim Benzema 2021
+Author: Real Madrid (video still)
+Source: https://commons.wikimedia.org/wiki/File:Karim_Benzema_2021.jpg
+Original video: https://www.youtube.com/watch?v=zNubIqUWAqk
+Original image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Karim_Benzema_2021.jpg
+License listed on source: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+Photo context: 2021 Real Madrid video.
+
+The dashboard displays CSS crops, gradient overlays, color treatments and motion.
+Any adaptations of the photographs remain under their respective photo licenses.
+
+ARCHIVE EDITION
+Additional photo references and credits are recorded alongside each image in
+public/history-data.js, public/xi-data.js and public/season-data.js, with
+visible source links in the app. See HISTORY-SOURCES.txt, XI-SOURCES.txt and
+SEASON-SOURCES.txt. These images remain remotely hosted and need internet.
+They are not represented as universally reusable or as historical match photos
+unless explicitly described that way. Initials identify unavailable portraits.
+Original vector trophy engraving is fictional simulation artwork.
